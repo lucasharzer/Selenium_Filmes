@@ -10,8 +10,18 @@ Obs: É necessário fazer o download do chromedriver no site: https://chromedriv
 
 # Instalações
 
-No termional
+Criar um ambiente virtual e ativá-lo
+
+No terminal:
 
 ```bash
      pip install -r requerimentos.txt
 ```
+
+# Rodar a aplicação
+
+```bash
+     python navegação.py
+```
+
+
