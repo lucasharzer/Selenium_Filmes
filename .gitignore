@@ -1,0 +1,11 @@
+# Todos os pacotes
+*__pycache__
+
+# Ambiente Virtual 
+ambvir
+
+# Pasta poster
+poster
+
+# Todos os arquivos executáveis
+*.executáveis

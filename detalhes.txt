@@ -1,0 +1,8 @@
+- abrir o navegador
+- pesquisar um filme em cartaz
+- capturar informações:
+    - nome
+    - adicionais: genero, duração
+    - diretor
+    - avaliação
+- repetir o processo mais duas vezes
