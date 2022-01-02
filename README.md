@@ -26,6 +26,14 @@ No terminal:
 
 # Resultado
 
+Navegação:
+
 <span>
      <img src="https://user-images.githubusercontent.com/85804895/147862833-eb43387d-dcf1-473a-8c4b-92b41d44d2b8.gif" width=900>
+</span>
+
+Terminal:
+
+<span>
+     <img src="https://user-images.githubusercontent.com/85804895/147862868-f1c0621f-5799-42eb-a374-b454ae08992e.png" width=900>
 </span>
