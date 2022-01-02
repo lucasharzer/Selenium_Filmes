@@ -24,4 +24,8 @@ No terminal:
      python navegação.py
 ```
 
+# Resultado
 
+<span>
+     <img src="https://user-images.githubusercontent.com/85804895/147862833-eb43387d-dcf1-473a-8c4b-92b41d44d2b8.gif" width=900>
+</span>
